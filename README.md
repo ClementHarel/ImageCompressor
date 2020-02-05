@@ -1,0 +1,2 @@
+# ImageCompressor
+Image compressing algorithm
